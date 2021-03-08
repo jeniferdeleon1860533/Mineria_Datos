@@ -17,4 +17,4 @@ FASE 1
 
 FASE 2
 
-[Presentación osbre Regresión líneal](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nLineal_3.pdf)
+[Presentación sobre Regresión líneal](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nLineal_3.pdf)
