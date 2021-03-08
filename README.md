@@ -14,3 +14,7 @@ FASE 1
 [Práctica 1: Limpieza de datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
 
 [Primer avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
+
+FASE 2
+
+[Presentación osbre Regresión líneal](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nLineal_3.pdf)
