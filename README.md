@@ -18,4 +18,7 @@ FASE 1
 FASE 2
 
 [Presentación sobre Regresión líneal](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+
 [Ejemplo sobre regresión lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
+
+[Calificaciones del mini examen](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
