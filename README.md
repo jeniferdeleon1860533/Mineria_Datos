@@ -22,3 +22,5 @@ FASE 2
 [Ejemplo sobre regresión lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
 
 [Calificaciones del mini examen](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+
+[Mapa Mental 2](https://github.com/jeniferdeleon1860533/Mineria_Datos/blob/main/MapaMental_2_1860533.pdf)
