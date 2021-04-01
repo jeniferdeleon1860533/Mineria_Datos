@@ -24,3 +24,5 @@ FASE 2
 [Calificaciones del mini examen](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
 
 [Mapa Mental 2](https://github.com/jeniferdeleon1860533/Mineria_Datos/blob/main/MapaMental_2_1860533.pdf)
+
+[Práctica 2: Visualización de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
