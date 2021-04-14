@@ -29,3 +29,5 @@ FASE 2
 
 [Segundo avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_G003_E3.ipynb)
 
+[-Segundo avance del PIA corregido](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_003_E03.ipynb)
+
