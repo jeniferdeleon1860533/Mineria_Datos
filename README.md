@@ -37,3 +37,5 @@ Fase 3
 
 [PIA](https://github.com/marioalb127/MinDat2021/blob/main/PIA_G003_E03.ipynb)
 
+[Póster](https://github.com/marioalb127/MinDat2021/blob/main/Poster_G003_E03.pdf)
+
